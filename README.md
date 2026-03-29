@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 The multi-scale feature extraction module in HUGStereo is implemented based on **LWGANet**.
 
-- [LWGANet (Official Repository)](https://github.com/AeroVILab-AHU/LWGANet)
+- [LWGANet](https://github.com/AeroVILab-AHU/LWGANet)
 
 
 ---
