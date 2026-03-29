@@ -6,7 +6,7 @@ This repository provides the official implementation of **HUGStereo**, proposed 
 
 > **HUGStereo: A Hierarchical Fusion and Geometry-Aware Refinement Network for High-Resolution Satellite Stereo Matching**  
 > Yuxiang Yao, Lina Yang, Haoyan Yang, et al.  
-> *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (J-STARS), 2026*
+> *Submitted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (J-STARS), 2026*
 
 ---
 
