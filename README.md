@@ -32,16 +32,44 @@ pip install -r requirements.txt
 
 ## 🏋️ Training
 
+**US3D**
+
 ```bash
-python train.py
+python train_us3d.py
+```
+
+**WHU-MVS**
+
+```bash
+python train_whu_mvs.py
+```
+
+**WHU-Stereo**
+
+```bash
+python train_whu_stereo.py
 ```
 
 ---
 
 ## 🔍 Evaluation
 
+**US3D**
+
 ```bash
-python test.py
+python test_us3d.py
+```
+
+**WHU-MVS**
+
+```bash
+python test_whu_mvs.py
+```
+
+**WHU-Stereo**
+
+```bash
+python test_whu_stereo.py
 ```
 
 ---
