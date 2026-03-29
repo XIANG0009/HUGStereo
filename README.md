@@ -19,25 +19,11 @@ This repository provides the official implementation of **HUGStereo**, proposed 
 
 ---
 
-## 📂 Structure
-
-HUGStereo/
-├── datasets/  
-├── models/  
-├── utils/  
-├── configs/  
-├── scripts/  
-├── checkpoints/  
-├── train.py  
-├── test.py  
-
----
-
 ## ⚙️ Installation
 
 Requirements:
-- Python >= 3.8
-- PyTorch >= 1.10
+- Python 3.7
+- PyTorch 1.12
 
 ```bash
 pip install -r requirements.txt
@@ -47,16 +33,16 @@ pip install -r requirements.txt
 
 ## 📊 Datasets
 
-- US3D  
-- WHU-MVS  
-- WHU-Stereo  
+- [US3D](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019)
+- [WHU-MVS](https://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html)  
+- [WHU-Stereo](https://github.com/Sheng029/WHU-Stereo)  
 
 ---
 
 ## 🏋️ Training
 
 ```bash
-python train.py --config configs/hugstereo.yaml
+
 ```
 
 ---
@@ -64,7 +50,7 @@ python train.py --config configs/hugstereo.yaml
 ## 🔍 Evaluation
 
 ```bash
-python test.py --checkpoint checkpoints/hugstereo.pth
+
 ```
 
 ---
@@ -78,12 +64,7 @@ Will be released upon acceptance.
 ## 📜 Citation
 
 ```bibtex
-@article{yao2026hugstereo,
-  title={HUGStereo},
-  author={Yao, Yuxiang},
-  journal={IEEE JSTARS},
-  year={2026}
-}
+
 ```
 
 ---
