@@ -28,7 +28,19 @@ pip install -r requirements.txt
 - [WHU-MVS](https://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html)  
 - [WHU-Stereo](https://github.com/Sheng029/WHU-Stereo)  
 
+
+
 ---
+
+## 🔧 Feature Extractor
+
+The multi-scale feature extraction module in HUGStereo is implemented based on **LWGANet**.
+
+- [LWGANet (Official Repository)](https://github.com/AeroVILab-AHU/LWGANet)
+
+
+---
+
 
 ## 🏋️ Training
 
