@@ -10,15 +10,6 @@ This repository provides the official implementation of **HUGStereo**, proposed 
 
 ---
 
-## 🚀 Highlights
-
-- Designed for remote sensing stereo matching  
-- Strong performance on US3D, WHU-MVS, WHU-Stereo  
-- Robust in challenging regions  
-- Efficient modular design  
-
----
-
 ## ⚙️ Installation
 
 Requirements:
@@ -42,7 +33,7 @@ pip install -r requirements.txt
 ## 🏋️ Training
 
 ```bash
-
+python train.py
 ```
 
 ---
@@ -50,7 +41,7 @@ pip install -r requirements.txt
 ## 🔍 Evaluation
 
 ```bash
-
+python test.py
 ```
 
 ---
